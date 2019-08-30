@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.29)  29 AUG 2019 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.29)  30 AUG 2019 12:48
 entering extended mode
 **"C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex"
 ("C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex"
@@ -472,13 +472,13 @@ G,.JBIG2,.JB2,.eps]
 \c@lstlisting=\count275
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 
 ("C:\Users\Anna Stray Rongve\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
 ts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 ("C:\Users\Anna Stray Rongve\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
 ts\umsb.fd"
@@ -486,24 +486,365 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/Anna Stray Rongve/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:65: LaTeX Error: There's
+ no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \\$
+        A = $
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66  \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:73: Missing $ inserted.
+<inserted text> 
+                $
+l.73 \end{bmatrix}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+ [5]
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:75: LaTeX Error: Bad mat
+h environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \]
+       \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:75: Extra }, or forgotte
+n $.
+\endmathdisplay@fleqn ...kip \@mathmargin \egroup 
+                                                  \ifnum \badness <\inf@bad ...
+l.75 \]
+       \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:75: LaTeX Error: \begin{
+document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \]
+       \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75 \]
+       \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:75: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.75 \]
+       \\
+Things are pretty mixed up, but I think the worst is over.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:77: Missing $ inserted.
+<inserted text> 
+                $
+l.77  \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:79: Missing $ inserted.
+<inserted text> 
+                $
+l.79 \end{bmatrix}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:80: LaTeX Error: Bad mat
+h environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \]
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:80: Extra }, or forgotte
+n $.
+\endmathdisplay@fleqn ...kip \@mathmargin \egroup 
+                                                  \ifnum \badness <\inf@bad ...
+l.80 \]
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:80: LaTeX Error: \begin{
+document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \]
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:80: Missing $ inserted.
+<inserted text> 
+                $
+l.80 \]
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:80: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.80 \]
+       
+Things are pretty mixed up, but I think the worst is over.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:82: LaTeX Error: There's
+ no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:86: Missing $ inserted.
+<inserted text> 
+                $
+l.86  \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:88: Missing $ inserted.
+<inserted text> 
+                $
+l.88 \end{bmatrix}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:89: LaTeX Error: Bad mat
+h environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \]
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:89: Extra }, or forgotte
+n $.
+\endmathdisplay@fleqn ...kip \@mathmargin \egroup 
+                                                  \ifnum \badness <\inf@bad ...
+l.89 \]
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:89: LaTeX Error: \begin{
+document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \]
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:89: Missing $ inserted.
+<inserted text> 
+                $
+l.89 \]
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:89: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.89 \]
+       
+Things are pretty mixed up, but I think the worst is over.
+
+
+
+C:/Users/Anna Stray Rongve/FYS3150/Project_1/proj1.tex:91: LaTeX Error: There's
+ no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \\W
+        here $ \tilde{b_i} = h^2 \cdot f_i $
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ [6] [7] [8] [9]
 ("C:\Users\Anna Stray Rongve\FYS3150\Project_1\proj1.aux") ) 
 Here is how much of TeX's memory you used:
- 15053 strings out of 492895
- 278399 string characters out of 3118129
- 425883 words of memory out of 3000000
- 18889 multiletter control sequences out of 15000+200000
- 537887 words of font info for 45 fonts, out of 3000000 for 9000
+ 15063 strings out of 492895
+ 278505 string characters out of 3118129
+ 430883 words of memory out of 3000000
+ 18897 multiletter control sequences out of 15000+200000
+ 539586 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,63p,319b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,10n,63p,319b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Anna Stra
 y Rongve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
 2.pfb><C:/Users/Anna Stray Rongve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/Users/Anna Stray Rongve/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anna Stray Rong
-ve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on proj1.pdf (1 page, 42074 bytes).
+/public/amsfonts/cm/cmex10.pfb><C:/Users/Anna Stray Rongve/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Anna Stray Ro
+ngve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/Anna Stray Rongve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/Anna Stray Rongve/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anna Stray Rongve/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Us
+ers/Anna Stray Rongve/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><C:/Users/Anna Stray Rongve/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Anna Stray Rongve/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on proj1.pdf (9 pages, 106735 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
